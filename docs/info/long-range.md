@@ -34,6 +34,7 @@ Anyone can add an entry to the table, and entries should include the:
 | 10Km | 2.4G | 50Hz | 10mW |  Wing| No | Padcom | [Link](https://www.youtube.com/watch?v=8Xm_bNlywQA) |
 | 7Km | 2.4G | 150Hz | 50mW | Quad | No | Taufik | [Link](https://youtu.be/bUlUGCup48I) |
 | 4.6Km | 2.4G | 50Hz | 25mW | Quad | No | febbyeka | [Link](https://www.youtube.com/watch?v=jtiu6GdsKhA) |
+| 3Km | 2.4G | 50Hz | 25mW | Quad | No | Mikey | [Link](https://www.youtube.com/watch?v=Ob7HIIn0XHc) |
 | 3Km | 2.4G | 150Hz | 25mW | Quad | No | Taufik | [Link](https://www.youtube.com/watch?v=vG_hxHndXdI&ab_channel=CauSiang) |
 
 ### 100mW+
